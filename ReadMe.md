@@ -1,7 +1,7 @@
 Author: sachindumalshan <br>
 Email: sachindu.info@gmail.com
 
-<h2>Project: NexHaven - IoT Based Home Automation System</h2>
+<h2>Project: H2OVue - Water Bill Management System</h2>
 
 ![NexHaven](https://github.com/sachindumalshan/NexHaven/assets/73152414/762239ca-b746-451d-969d-898f3cd1d57e)
 NexHaven is the result of my passion for home automation, combining cutting-edge technology and the power of the Internet of Things (IoT). This project is designed to make life smarter, more convenient, and safer for homeowners.
