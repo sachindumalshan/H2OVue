@@ -3,10 +3,10 @@
 
 #define WaterFlowSensor 27
 
-String URL = "http://192.168.8.175/wbms/connect.php?";
+String URL = "http://OP_ADDRESS/wbms/connect.php?";
 
-const char* ssid = "Hydra"; 
-const char* password = "divLX404"; 
+const char* ssid = "YOUR_WIFI_SSID"; 
+const char* password = "YOUR_WIFI_PASSWORD"; 
 
 int flowread = 0;
 
