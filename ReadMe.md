@@ -6,18 +6,16 @@ Email: sachindu.info@gmail.com
 ![Schematic Diagram](https://github.com/sachindumalshan/H2OVue/assets/73152414/8288e15d-f56c-4809-ae7e-a728696ec830)
 H2OVue is the project of blending modern technology and the Internet of Things (IoT). This project is aimed at simplifying and improving the lives of homeowners by providing an automatic water bill management system. With H2OVue, users can effortlessly obtain their water bills without any manual input. Sensors measure water consumption and calculate the bill automatically.
 
-🧩 Key Components:
+⚙️ Hardware Components:
 - ESP32 Microcontroller Board
-- PIR Sensor
-- Magnetic Door Switch Sensor
-- Flame Sensor
-- MQ-5 LP Gas Sensor
-- LED Lights
-- DHT11 Sensor
-- Water Level Sensor
-- 2 x 3.7V 18650mAh Batteries
+- Water Flow Sensor
 
-💡 What Can NexHaven Do?
+🖥️ Utilized Technologies:
+- Arduino
+- PHP
+- MySQL
+
+💡 What Can H2OVue Do?
 NexHaven connects all these components to create a seamless home automation system. Users can remotely access and control their homes from anywhere in the world, thanks to the always-on internet connection. With the help of the Arduino Cloud Platform, you can monitor sensor data through a web dashboard or a dedicated app.
 
 🏠 Home Security:
