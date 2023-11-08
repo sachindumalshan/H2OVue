@@ -3,7 +3,7 @@ Email: sachindu.info@gmail.com
 
 <h2>Project: H2OVue - Water Bill Management System</h2>
 
-![NexHaven](https://github.com/sachindumalshan/NexHaven/assets/73152414/762239ca-b746-451d-969d-898f3cd1d57e)
+![Schematic Diagram](https://github.com/sachindumalshan/H2OVue/assets/73152414/ea6097b9-343d-48e3-963b-2b814af74e9a)
 NexHaven is the result of my passion for home automation, combining cutting-edge technology and the power of the Internet of Things (IoT). This project is designed to make life smarter, more convenient, and safer for homeowners.
 
 🧩 Key Components:
