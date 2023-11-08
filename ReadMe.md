@@ -3,7 +3,7 @@ Email: sachindu.info@gmail.com
 
 <h2>Project: H2OVue - Water Bill Management System</h2>
 
-![Schematic Diagram](https://github.com/sachindumalshan/H2OVue/assets/73152414/8288e15d-f56c-4809-ae7e-a728696ec830)
+![Schematic Diagram](https://github.com/sachindumalshan/H2OVue/assets/73152414/26a9ba40-015f-46a9-b770-d7cbae95fb11)
 H2OVue is the project of blending modern technology and the Internet of Things (IoT). This project is aimed at simplifying and improving the lives of homeowners by providing an automatic water bill management system. With H2OVue, users can effortlessly obtain their water bills without any manual input. Sensors measure water consumption and calculate the bill automatically.
 
 ⚙️ Hardware Components:
