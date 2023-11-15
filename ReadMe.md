@@ -14,29 +14,27 @@ H2OVue is the project of blending modern technology and the Internet of Things (
 - Arduino
 - PHP
 - MySQL
+<br/>
 
 💡 What Can H2OVue Do?
-NexHaven connects all these components to create a seamless home automation system. Users can remotely access and control their homes from anywhere in the world, thanks to the always-on internet connection. With the help of the Arduino Cloud Platform, you can monitor sensor data through a web dashboard or a dedicated app.
+- The H2OVue project leverages the Arduino software and ESP32 board in conjunction with a MySQL database and PHP as the backend language. Utilizing a water flow sensor, the system calculates water unit usage and sends this data to the database. A reporting mechanism has been implemented using the TCPDF library and PHP, allowing users to generate and download reports through a straightforward web page.
 
-🏠 Home Security:
-- The PIR sensor detects motion, enhancing your home's security.
-- The magnetic door lock sensor provides alerts if doors or windows are opened without permission.
-- The flame sensor keeps you safe by detecting fire hazards.
-- The MQ-5 LP Gas Sensor alerts you to potential gas leaks.
+💧 Water Flow Management:
+- The core of H2OVue's functionality lies in the Water Flow Sensor. This sensor reads values related to water consumption.
 
-🌡️ Climate Control:
-- The DHT11 Sensor keeps you informed about the temperature and humidity levels in your home.
+📊 Data Transmission to Database:
+- The H2OVue system, constructed using Arduino software and an ESP32 board, ensures seamless connectivity with a MySQL database. The water flow sensor's readings are transmitted to the database, facilitating real-time tracking and storage of water usage data.
 
-💧 Water Management:
-- The Water Level Sensor helps you manage water resources efficiently.
+📈 Reporting System:
+- To enhance user insights, the system utilizes the TCPDF library in conjunction with PHP. This combination allows the generation of detailed reports based on the data collected from the water flow sensor.
 
-💡 Lighting Control:
-- You can control the LED lights in your home through the app.
+📥 Report Download:
+- Users can conveniently access and download these reports through a straightforward web page. The generated reports provide a comprehensive overview of water usage trends, enabling informed decision-making for efficient water resource management.
 
-This project demonstrates the power of IoT by allowing you to stay connected to your home no matter where you are. 
-For more information: https://bit.ly/NexHaven_HomeAutomationSystem
+This project exemplifies the synergy between robotics, database connectivity, and web development, showcasing their seamless integration.<br/>
+For more information: https://bit.ly/H2OVue_WaterBillManagementSystem
 
-Let's make our homes smarter, safer, and more efficient with NexHaven!✨
+Let's elevate our homes to be more intelligent, and resource-efficient with H2OVue! 🏠
 
 
 <h4><u>Step 1:</u></h4>
