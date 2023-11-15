@@ -38,11 +38,13 @@ Let's elevate our homes to be more intelligent, and resource-efficient with H2OV
 
 
 <h4><u>Step 1:</u></h4>
-I constructed a charming wooden house prototype using carefully cut and assembled wooden boards. For my circuit board, I placed the components on the board, soldered them together, and tested it for functionality.
+Begin by crafting a mini water meter using wooden materials and pipes. Integrate a water flow sensor into the assembly to accurately measure water usage. This physical setup serves as the foundation for tracking water flow in your system.
 
 <h4><u>Step 2:</u></h4>
-Creating a seamless connection between an ESP32 board and the Arduino Cloud Platform is an exciting venture. By configuring variables within the Arduino Cloud, you can monitor and control your ESP32 remotely. Upload the code to your board using the Arduino Create Agent software for real-time data exchange. This combination of IoT technology promises not only functionality but an elegant solution for remotely managing your devices.
+Assemble the ESP32 microcontroller with the water flow sensor on your constructed mini water meter. Establish a connection between the sensor and ESP32 to read real-time values. This step ensures that the system captures precise data reflecting water consumption.
 
+<h4><u>Step 3:</u></h4>
+Implement a robust backend using MySQL database connectivity. Send the collected water flow data from the ESP32 to the database for storage. Develop a process to retrieve this data and generate PDF reports using a combination of PHP and the TCPDF library. Finally, create a simple web page to showcase these PDF reports, providing an easily accessible interface for users to monitor and analyze their water usage.
 
 <h4>License</h4>
 MIT License | Copyright (c) 2023 Sachindu Malshan
